@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #78be21;
+    height: 100px;
+    padding: 0 auto;
+}
+
+.logonavbar{
+    margin-right: 20px;
+    height: 50%;
+    width: 55%;
+}
+
+.navbar-brand{
+    font-family: 'monospace';
+    color: white !important;
+    font-weight: bolder;
+}
